@@ -1,4 +1,4 @@
-This repo contains the source code of the paper 'Active Parameter Guided Test Case Generation for Deep Learning Libraries' submitted to ICSE26
+This repo contains the source code of the paper 'Active Parameter Guided Testing for Deep Learning Libraries in Python Environment' submitted to ICSE26
 
 The dir 'data' contains parameter space ('ParamInfo_KR.pickle') and initial population ('seedpool_KR.pickle') of each API 
 
